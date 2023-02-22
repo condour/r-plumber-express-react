@@ -2,7 +2,7 @@
 
 This is an example project intended to show how React can work together with the R Plumber package.
 
-To build: 
+To build:
 
 1. Make sure to run `npm install` within the express and client directories.
 2. You'll need to set up some environment variables for both the react client and the express server. See below for details.
@@ -35,8 +35,8 @@ Your Express environment will also need to be set. For this example we use the c
 
 The .env file should contain:
 
-EXPRESS_PLUMBER_API_URL=<YOUR INSTALLATION URL>
-EXPRESS_PLUMBER_API_KEY=<YOUR KEY>
+EXPRESS_PLUMBER_API_URL=`<YOUR INSTALLATION URL>`
+EXPRESS_PLUMBER_API_KEY=`<YOUR KEY>`
 
 ## Help!
 
